@@ -9,7 +9,6 @@ A simple command-line calculator written in Go. It supports basic arithmetic ope
 - Accepts decimal numbers (`float64`)
 - REPL-style: keeps prompting until you quit
 - Input format: `number operator number`
-- Case-insensitive quit command (e.g., `q`, `Q`, `quit`)
 
 
 ## 🔨 Build and run
